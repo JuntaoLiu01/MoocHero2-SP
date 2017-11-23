@@ -1,0 +1,1 @@
+Mooc Hero - SP is a another shooting game in a new scene. You can shoot at zombies to get as many scores as you can. However, as time went by, the number of zombies will increase, So it is will be hard to keep alive because more and more zombies will attack you.

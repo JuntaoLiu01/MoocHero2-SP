@@ -1,0 +1,18 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/DominoCollide.cs">
+    <Files>
+      <File FileName="Assets/Scripts/AgentControl.cs" Line="24" Column="4" />
+      <File FileName="Assets/Scripts/NewZombie/ZombieAI.cs" Line="366" Column="1" />
+      <File FileName="Assets/MyScripts/AgentControl_my.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/NewPlayer/PlayerHealth.cs" Line="1" Column="1" />
+      <File FileName="Assets/Models/Zombie/Materials/body_shader.shader" Line="7" Column="16" />
+      <File FileName="Assets/Scripts/NewPlayer/PlayerMove.cs" Line="68" Column="5" />
+      <File FileName="Assets/Scripts/DominoCollide.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
